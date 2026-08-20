@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there! 👋 I'm Noah Narváez
 
-<!--
-**sicalo330/sicalo330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Systems Engineering Student**
 
-Here are some ideas to get you started:
+I'm a software developer interested in **web development, backend systems, and software engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience developing applications with **Angular, Node.js and SQL**, as well as working with technologies such as **React, Django, FastAPI and AWS**.
+
+### 🛠️ Technologies
+
+**Frontend**
+
+* Angular
+* React
+* HTML & CSS
+
+**Backend**
+
+* Node.js
+* Python
+* Django
+* FastAPI
+
+**Database**
+
+* SQL Server
+* MongoDB
+* Firebase
+
+**Other**
+
+* Git / GitHub
+* AWS
+* Electron
+* Linux (Ubuntu, Mint, Arch and Debian)
+
+### 📚 Currently learning
+
+* Software engineering
+* Backend development
+* Cloud technologies
+* Game development with Unity and Godot
+
+### 💼 Experience
+
+I've worked as a **Software Development Engineer**, where I developed web applications with Angular and Node.js, desktop applications with Electron, and provided support for business software.
+
+### 🎓 Education
+
+🎓 **Systems Engineering(Currently studying)** — Universidad Tecnológica de Pereira
+🎓 **Software Development Technology** — Universidad Tecnológica de Pereira
+
+### 🎯 Looking for
+
+I'm currently looking for opportunities as a **Junior Software Developer**, 
+**Full Stack Developer**, **Backend Developer** or **Game Developer** where I can contribute,
+learn, and continue growing as a software engineer.
+
+### 📫 Contact
+
+📧 **[noah.esteban9@gmail.com](mailto:noah.esteban9@gmail.com)**
