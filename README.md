@@ -43,7 +43,7 @@ I have experience developing applications with **Angular, Node.js and SQL**, as 
 
 **Game development**
 <br/>
-<img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat" />
 
 </td>
