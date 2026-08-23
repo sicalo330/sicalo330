@@ -9,7 +9,7 @@ I have experience developing applications with **Angular, Node.js and SQL**, as 
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 **Frontend**
 <br/>
@@ -20,7 +20,7 @@ I have experience developing applications with **Angular, Node.js and SQL**, as 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 **Backend**
 <br/>
@@ -30,7 +30,7 @@ I have experience developing applications with **Angular, Node.js and SQL**, as 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 **Database**
 <br/>
@@ -39,7 +39,7 @@ I have experience developing applications with **Angular, Node.js and SQL**, as 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 **Game development**
 <br/>
@@ -47,7 +47,7 @@ I have experience developing applications with **Angular, Node.js and SQL**, as 
 <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat" />
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="20%">
 
 **Other**
 <br/>
