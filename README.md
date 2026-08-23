@@ -57,6 +57,7 @@ I have experience developing applications with **Angular, Node.js and SQL**, as 
 <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud-Amazon_AWS-blue?style=for-the-badge&logo=amazonaws" />
 
 </td>
 </tr>
